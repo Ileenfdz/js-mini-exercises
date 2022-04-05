@@ -1,0 +1,23 @@
+{
+  "name": "js-mini-exercises",
+  "version": "1.0.0",
+  "description": "This is a repository for doing some exercises (almost daily) for practice and better logic with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ileenfdz/js-mini-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ileenfdz/js-mini-exercises/issues"
+  },
+  "homepage": "https://github.com/Ileenfdz/js-mini-exercises#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
