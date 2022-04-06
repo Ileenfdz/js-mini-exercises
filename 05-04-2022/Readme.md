@@ -14,4 +14,4 @@ center('abcdefg', 2)  # returns "abcdefg"
 
 ## Find it in:
 
-Codewars : 
+Codewars
