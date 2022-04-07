@@ -16,6 +16,15 @@ bonus([18, 15, 12], 851) -> [230, 276, 345]
 
 bonus([30, 27, 8, 14, 7], 34067) -> [2772, 3080, 10395, 5940, 11880]
 
+## Create Phone Number
+
+Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+
+Example
+createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
+The returned format must be correct in order to complete this challenge.
+Don't forget the space after the closing parentheses!
+
 ## Find it in:
 
 Codewars
