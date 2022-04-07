@@ -1,4 +1,4 @@
-const countPositivesSumNegatives = require('../scripts/countPositivesSumNegatives.js')
+const countPositivesSumNegatives = require('../scripts/countPositiveSumNegatives.js')
 
 describe('Example Test', function() {
  test('Should give true', function() {
